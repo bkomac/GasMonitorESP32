@@ -13,6 +13,7 @@
 #define INVERT_BUILTINLED false
 #define BUILTINLED 5
 
+//ahead declaration
 void blink();
 void blink(int times);
 void blink(int times, int milisec);
